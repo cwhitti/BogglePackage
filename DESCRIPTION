@@ -1,0 +1,14 @@
+Package: BogglePackage
+Title: Boggle Generator
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Claire",
+           family = "Whittington",
+           role = c("aut", "cre"),
+           email = "cew374@nau.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Custom Boggle Generator and statistics!
+License: None
+Encoding: UTF-8
+LazyData: true  
+RoxygenNote: 7.3.2
